@@ -1,0 +1,3 @@
+﻿  UdpClient.c
+U:\Socket Programming\Socket Prog\UdpClient\UdpClient.c(29,24): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  UdpClient.vcxproj -> U:\Socket Programming\Socket Prog\UdpServer\x64\Debug\UdpClient.exe

@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1118,5): warning MSB8027: Two or more files with the name of TcpClient.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are TcpClient.c, tcpclient.c.
+  TcpClient.c
+  tcpclient.c
+  Generating Code...
+x64\Debug\tcpclient.obj : warning LNK4042: object specified more than once; extras ignored
+  TcpClient.vcxproj -> U:\Socket Programming\Socket Prog\UdpServer\x64\Debug\TcpClient.exe
